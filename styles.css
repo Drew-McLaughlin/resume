@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    background-color: #f5f0f0;
+}
+header {
+    margin: 20px 0 0 25px;
+    border: solid 1px #b4a7a7;
+    width: 275px;
+    height: 450px;
+    padding: 10px 5px 0px 0px;
+    border-radius: 2%;
+    background-color: #ebe3e3;
+}
+.profile-image img {
+    width: 250px;
+    border: solid 5px #6e6565;
+    border-radius: 50%;
+    padding: 3px;
+    margin: 0 0 0 8px;
+    }
+    .contact-links li {
+        list-style: none;
+        font-size: smaller;
+        padding-left: 2px;
+        text-align: start;
+        color: #4d4747;
+    }
+     header h1 {
+        margin-left: 8px;
+    }
+main {
+    margin: 0 25px;
+}
+.github-img img {
+    height: 20px;
+}
